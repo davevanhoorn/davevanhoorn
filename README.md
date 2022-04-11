@@ -12,7 +12,7 @@ My preferred stack is React, Next.js, TypeScript, Tailwind.css and Azure DevOps,
 - ✅ Bootstrap and sell a business
 - ✅ Work in a multinational for longer than a year
 - ✅ Live and work abroad for longer than a year
-- ✅ Teach others how to write HTML, CSS and JavaScript
+- ✅ Teach others how to create websites
 - 💡 Learn to speak a foreign language like Hindi 
 - 💡 Be involved in a tech community - JavaScript.nl?
 - 💡 Bootstrap and sell a **100% online** business
